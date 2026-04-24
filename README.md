@@ -8,7 +8,7 @@ Companion to [VT-Terminal-Project](https://github.com/ValentinTorassa/VT-Termina
 
 ### Zed Configuration
 - Editor settings optimized for speed and readability
-- Custom keybindings for git workflows and AI commands
+- Custom keybindings for git workflows and AI commands (Linux-friendly `ctrl` bindings — see [cheatsheet](./cheatsheet/zed-shortcuts.md))
 - Theme matching the terminal setup (GitHub Dark / Catppuccin)
 - Extension management (Discord presence, language support)
 
@@ -64,7 +64,7 @@ cd ~/.ide-config
 
 ## Requirements
 
-- macOS (tested on Apple Silicon)
+- macOS (Apple Silicon) or Linux
 - [Zed](https://zed.dev) (v0.200+)
 - [GitHub CLI](https://cli.github.com/) (`gh`)
 - [Claude Code](https://claude.ai/claude-code) CLI (for AI scripts)
